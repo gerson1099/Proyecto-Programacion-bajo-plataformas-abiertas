@@ -5,7 +5,7 @@ Este repositorio contiene dos proyectos desarrollados en C:
 1. **Proyecto 1:** Un juego de Tic Tac Toe (Tres en línea) utilizando la biblioteca gráfica GTK+.
 2. **Proyecto 2:** Un programa que compara dos funciones cuadráticas con un porcentaje de error permitido, utilizando Gnuplot para la visualización.
 
-## Proyecto 1: Tic Tac Toe (Tres en línea)
+## Proyecto 1: Tic Tac Toe (Gato)
 
 ### Descripción
 Un juego simple de Tic Tac Toe para dos jugadores, implementado en C con GTK+ para la interfaz de usuario.
