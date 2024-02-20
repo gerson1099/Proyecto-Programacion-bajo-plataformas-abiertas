@@ -3,7 +3,7 @@ Estudiantes: José Andrés Rodríguez Vásquez B46007
              Gerson Cuadra Obando C22492
              Victor Jaffeth Sandoval Sandoval C07370
 
-Este programa de Python recibe dos funciones cuadráticas cualesquiera de la
+Este programa de C recibe dos funciones cuadráticas cualesquiera de la
 forma ax^2+bx+c y un porcentaje de error (0-100 %), y encuentra el subdominio
 donde la diferencia entre ambas funciones no supera el porcentaje de error.
 El dominio de ambas funciones no es continuo, es: [-100000,100000] en pasos
