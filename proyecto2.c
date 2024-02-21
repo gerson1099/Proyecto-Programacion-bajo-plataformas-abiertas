@@ -220,7 +220,6 @@ void graficar(double izquierda, double derecha, double imagen_gx) {
     // Cerrar Gnuplot
     fprintf(gnuplotPipe, "replot\n"); // Actualizar la gráfica
     fprintf(gnuplotPipe, "pause -1\n"); // Esperar antes de cerrar la ventana
-    fprintf(gnuplotPipe, "exit\n"); 
     pclose(gnuplotPipe);
 }
 
