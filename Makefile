@@ -15,7 +15,7 @@ p1: proyecto1.c
 
 # Target para compilar proyecto2.c y generar el ejecutable llamado exe
 p2: proyecto2.c
-	$(CC) $(CFLAGS) $< -o exe
+	$(CC)  $< -o exe
 
 # Target para limpiar los ejecutables generados
 clean:
