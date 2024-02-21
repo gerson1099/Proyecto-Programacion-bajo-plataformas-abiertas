@@ -1,3 +1,17 @@
+/* 
+Estudiantes: José Andrés Rodríguez Vásquez B46007
+             Gerson Cuadra Obando C22492
+             Victor Jaffeth Sandoval Sandoval C07370
+
+Este programa de C el código comienza con la inclusión de las bibliotecas 
+necesarias para el proyecto, específicamente `<gtk/gtk.h>` para GTK+ y `<stdio.h>` 
+para operaciones de entrada y salida estándar. Inicializamos el estado del juego con
+todos los botones del tablero como `NULL` y establecemos el primer jugador en 'X'.
+*/
+
+
+
+
 #include <gtk/gtk.h>
 #include <stdio.h>
 
